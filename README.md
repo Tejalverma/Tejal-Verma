@@ -35,6 +35,6 @@ During my internship at Isro, I worked on real-world projects that boosted my te
 
 
 📫 **How to reach me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/tejalverma)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/4221-tejal/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 📍 Jaipur  
 🌐 [https://tejalverma.dev](https://tejalverma.dev) *(if you have portfolio website)*
