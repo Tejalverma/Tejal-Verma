@@ -34,9 +34,6 @@ During my internship at Isro, I worked on real-world projects that boosted my te
 
 
 
-📧 Email: tejalkumawat4221@gmail.com
-🌐 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/4221-tejal/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
-
 ### 📬 Let's Connect
 
 I'm always eager to discuss new opportunities, collaborate on exciting projects, or simply connect with like-minded professionals.  
