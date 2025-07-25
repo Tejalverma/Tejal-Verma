@@ -34,7 +34,15 @@ During my internship at Isro, I worked on real-world projects that boosted my te
 
 
 
-📫 **How to reach me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/4221-tejal/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-📍 Jaipur  
-🌐 [https://tejalverma.dev](https://tejalverma.dev) *(if you have portfolio website)*
+📧 Email: tejalkumawat4221@gmail.com
+🌐 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/4221-tejal/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+
+### 📬 Let's Connect
+
+I'm always eager to discuss new opportunities, collaborate on exciting projects, or simply connect with like-minded professionals.  
+If my experience and skills align with your needs, or if you're interested in exploring potential collaborations, feel free to reach out!
+
+- 📧 *Email:* [tejalkumawat4221@gmail.com](mailto:tejalkumawat4221@gmail.com)  
+- 🔗 *LinkedIn:* [linkedin.com/in/tejal-verma](https://www.linkedin.com/in/4221-tejal/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+
